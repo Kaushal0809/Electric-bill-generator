@@ -1,0 +1,11 @@
+Bill id,Name,Customer id,Price per unit,Units consumed,Total amount
+1,Deepak,1,4.00,45,180.00
+2,Deepak,1,4.00,45,180.00
+3,Deepak,1,4.00,43,172.00
+4,Deepak,1,4.00,99,396.00
+5,Satya Ranjan,2,5.00,99,495.00
+6,Satya Ranjan,2,5.00,100,500.00
+7,Deepak,1,4.00,100,400.00
+8,Deepak,1,4.00,200,800.00
+9,Satya Ranjan,2,5.00,220,1100.00
+10,Deepak,1,4.00,100,400.00
